@@ -6,6 +6,8 @@ class test1{
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter Radius");
+        studentDetails.setName("Alex");
+        studentDetails.setAge(23);
     }
 
 }
