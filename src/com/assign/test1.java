@@ -9,11 +9,8 @@ import java.util.Properties;
 
 public class TestCommit {
     public static void main(String[] args) throws IOException {
-        if("test"!="test"){
+
             System.out.println("test");
-        }
-        if("compare"=="compare"){
-            System.out.println("compare");
-        }
+
     }
 }
