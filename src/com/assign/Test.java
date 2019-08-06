@@ -7,13 +7,7 @@ public class TestStudentDetails {
 		
 		//creating a instance
 		StudentDetails studentDetails = new StudentDetails();
-		
-		//assigning the values
-		studentDetails.setName("Alex");
-		studentDetails.setAge(23);
-		
-		//displaying output
-		System.out.println(studentDetails.getName() + " is " + studentDetails.getAge() + " old.");
+
 	}
 
 }
