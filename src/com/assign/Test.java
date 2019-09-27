@@ -1,7 +1,7 @@
 //Question 2 => B)
 package com.assign;
 
-public class TestStudentDetails {
+class TestStdentDetails {
 
 	public static void main(String[] args) {
 		
@@ -10,4 +10,6 @@ public class TestStudentDetails {
 
 	}
 
+	private static class StudentDetails {
+	}
 }
