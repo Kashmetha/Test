@@ -8,6 +8,9 @@ class test1{
         System.out.println("Enter Radius");
         studentDetails.setName("Alex");
         studentDetails.setAge(23);
+        System.out.println("Enter Radius");
+        studentDetails.setName("Sam");
+        studentDetails.setAge(27);
     }
 
 }
