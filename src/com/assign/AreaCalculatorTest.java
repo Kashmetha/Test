@@ -1,7 +1,7 @@
 //Question 01
 package com.assign;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class AreaCalculatorTest {
 
@@ -23,7 +23,8 @@ public class AreaCalculatorTest {
 		//assigning the values
 		System.out.println("Area: " + areaCircle.getArea(radius)); 
 		System.out.println("Circumference: " + circumferenceCircle.getCircumference(radius));
-		
+		System.out.println("Circumference: " );
+		System.out.println("radius: " );
 	}
 
 }

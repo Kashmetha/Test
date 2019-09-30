@@ -13,9 +13,11 @@ public class TestStudentDetails {
 		studentDetails.setAge(23);
 		studentDetails.setName("sam");
 		studentDetails.setAge(23);
-		
+
 		//displaying output
 		System.out.println(studentDetails.getName() + " is " + studentDetails.getAge() + " old.");
 	}
 
+	private static class StudentDetails {
+	}
 }
