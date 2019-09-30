@@ -25,6 +25,8 @@ public class AreaCalculatorTest {
 		System.out.println("Circumference: " + circumferenceCircle.getCircumference(radius));
 		System.out.println("Circumference: " );
 		System.out.println("radius: " );
+		System.out.println("radius: " );
+		System.out.println("radius: " );
 	}
 
 }

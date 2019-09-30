@@ -11,5 +11,6 @@ class TestStdentDetails {
 	}
 
 	private static class StudentDetails {
+
 	}
 }
