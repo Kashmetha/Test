@@ -7,7 +7,10 @@ class test1{
 
         System.out.println("Enter Radius");
         studentDetails.setName("Alex");
-        studentDetails.setAge(23);
+
+        System.out.println("Enter Radius");
+        studentDetails.setName("sam");
+        studentDetails.setAge(20);
     }
 
 }
